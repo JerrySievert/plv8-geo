@@ -1,0 +1,23 @@
+{
+  "name": "plv8-geo",
+  "version": "1.0.0",
+  "description": "Geo plugins for PLV8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Try running node test/test_runner.js\" && exit 0"
+  },
+  "keywords": [
+    "plv8",
+    "geo",
+    "gis",
+    "geometry",
+    "geography"
+  ],
+  "author": "Jerry Sievert <code@legitimatesounding.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ansi-color": "^0.2.1",
+    "optimist": "^0.6.1",
+    "pg": "^4.5.1"
+  }
+}
